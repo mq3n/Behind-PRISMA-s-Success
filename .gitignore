@@ -31,9 +31,55 @@ env/
 .venv
 
 # IDEs
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints/
+
+# IDE
 .vscode/
 .idea/
 *.swp
 *.swo
 *~
 .DS_Store
+
+# Data files (large files should not be committed)
+*.csv
+*.xlsx
+*.xls
+*.db
+*.sqlite
+*.h5
+*.hdf5
+
+# Exceptions for small example data
+!data/examples/*.csv
+!data/examples/*.xlsx
+
+# Results and outputs
+results/temp/
+*.log
+*.out
+
+# Model files
+*.pkl
+*.pickle
+*.joblib
+*.pt
+*.pth
+*.h5
+*.hdf5
+*.ckpt
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+.env.local
