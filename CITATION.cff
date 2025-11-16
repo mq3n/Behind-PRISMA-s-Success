@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+title: "Behind PRISMA's Success: GAI's Support in Action"
+message: "If you use this software or data, please cite it as below."
+type: software
+authors:
+  - family-names: "mq3n"
+    email: "contact@example.com"
+repository-code: "https://github.com/mq3n/Behind-PRISMA-s-Success"
+url: "https://github.com/mq3n/Behind-PRISMA-s-Success"
+abstract: >-
+  This repository contains the code and research results
+  connected to the scientific article titled "Behind PRISMA's
+  Success: GAI's Support in Action", which explores the role
+  of Generative AI in supporting the PRISMA methodology.
+keywords:
+  - PRISMA
+  - Generative AI
+  - GAI
+  - Systematic Review
+  - Meta-Analysis
+  - Research Methodology
+license: MIT
+version: 0.1.0
+date-released: 2025-11-16
