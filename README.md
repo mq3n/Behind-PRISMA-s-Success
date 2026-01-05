@@ -33,17 +33,7 @@ pip install -r requirements.txt
 jupyter notebook
 ```
 
-2. Open `prisma_analysis.ipynb` in your browser
-
-3. Run the cells to explore PRISMA methodology, visualizations, and analyses
-
-## What You'll Learn
-
-- Understanding the PRISMA framework
-- Tracking studies through systematic review stages
-- Visualizing the PRISMA flow diagram
-- Analyzing study characteristics and quality
-- Publication trend analysis
+2. Run the notebooks and cells to explore PRISMA methodology, visualizations, and analyses
 
 ## Contributing
 
