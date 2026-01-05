@@ -1,0 +1,62 @@
+original title,summary,concerns building architecture?
+“Deep Learning for Style Recognition in Architectural Heritage”,This paper presents a convolutional neural network approach to classify architectural heritage images by style, demonstrating over 90% accuracy on a diverse dataset.,yes
+“A Novel Deep Learning Framework for Urban Form Analysis”,The authors propose an end-to-end deep learning pipeline to analyze urban form from satellite imagery, extracting morphological features relevant to city planning.,yes
+“Assessing Gothic Facade Ornamentation with CNNs”,Using deep convolutional networks, this study quantifies decorative patterns on Gothic facades and clusters them into stylistic groups.,yes
+“Generative Adversarial Networks for Architectural Floor Plan Synthesis”,This work leverages GANs to generate realistic residential floor plans, conditioned on user constraints like room count.,yes
+“Deep Learning in Structural Health Monitoring: A Review”,A survey of deep learning applications (CNNs, RNNs) for damage detection in civil structures, covering sensor data processing and model performance.,no
+“Transfer Learning for Facade Semantic Segmentation”,This paper adapts pre-trained image-segmentation models to label facade elements (doors, windows) in urban scenes.,yes
+“Architectural Style Classification via Multi-modal Deep Learning”,Combining images and textual descriptions, the proposed network achieves robust style classification across seven architectural periods.,yes
+“Deep Reinforcement Learning for Building Energy Optimization”,An actor-critic RL algorithm is used to optimize HVAC control policies, reducing energy consumption by up to 15%.,no
+“3D Point Cloud Processing of Historical Monuments Using Deep Networks”,The study trains 3D CNNs on LiDAR scans of monuments to detect structural anomalies and stylistic details.,yes
+“Neural Style Transfer for Architectural Visualization”,Applying neural style transfer to architectural renders, authors demonstrate how to impose classical styles onto modern designs.,yes
+“Deep Learning–Based Material Classification in Building Facades”,This work uses CNNs to classify materials (stone, brick, glass) in facade photos, aiding automated documentation.,yes
+“Review of Deep Learning Techniques in Smart City Applications”,A broad review covering traffic prediction, resource allocation, and urban analytics, with a section on facade analysis.,no
+“Semantic Segmentation of Urban Scenes with DeepLabv3+”,The paper fine-tunes DeepLabv3+ on urban street-view images to segment building elements and street furniture.,yes
+“Deep Graph Convolutional Networks for Spatial Syntax Analysis”,Introduces a graph-based DL model to compute spatial syntax metrics from building floor-plans.,yes
+“Architectural Styles and Deep Metric Learning”,Uses triplet networks to learn a style-distance metric, clustering buildings by architectural similarity.,yes
+“Deep Learning–Driven Heritage Conservation Planning”,A framework integrating CNN-based damage detection with GIS for prioritizing heritage conservation.,yes
+“Building Energy Load Forecasting with LSTM Networks”,Employs LSTM models on historical temperature and usage data to forecast hourly building energy loads.,no
+“GANs for Historical Facade Restoration Proposals”,Generative models suggest plausible restorative designs for degraded historic facades.,yes
+“Automated Brick Wall Texture Analysis Using Deep Neural Networks”,This paper details a CNN to classify different brick textures and mortar conditions.,yes
+“Deep Learning for Indoor Localization: A Survey”,A comprehensive review of DL-based indoor positioning techniques using Wi-Fi and inertial sensors.,no
+“Neural Networks for Photovoltaic Potential Mapping in Urban Areas”,CNNs predict rooftop PV potential from aerial imagery, integrating shading and surface analysis.,yes
+“Style2Vec: A Vector Embedding for Architectural Styles”,Proposes an embedding method that maps building images into a style space useful for retrieval and clustering.,yes
+“Deep Learning in Earthquake-Resistant Architectural Design”,Uses DL to generate building models optimized for seismic resilience based on historical performance data.,yes
+“Multi-Task Deep Learning for Urban Scene Understanding”,A single network simultaneously performs segmentation, depth estimation, and style classification.,yes
+“Deep Learning-Based Detection of Building Cracks from Drone Imagery”,This paper presents an object-detection model fine-tuned to identify cracks in facades and roofs.,yes
+“3D GANs for Parametric Architectural Form Exploration”,Introduces a 3D GAN that generates novel building massing variations under user-defined constraints.,yes
+“Deep Learning for Smart Building Fault Detection”,Anomaly detection in HVAC sensor streams using autoencoders to identify system faults.,no
+“Automatic Generation of Building Elevations via CNNs”,Trains a network to convert floor-plan sketches into colored elevation images.,yes
+“Graph Neural Networks for Structural Topology Optimization”,GNNs predict optimal material layouts in building components to minimize weight and stress.,yes
+“Deep Learning for Urban Heat Island Analysis”,Uses CNNs on thermal imagery to map urban heat islands and correlate them with building density.,yes
+“Transfer Learning for Historical Architectural Sketch Recognition”,Adapts CNNs to recognize and digitize hand-drawn architectural sketches from archives.,yes
+“Deep Q-Learning for Autonomous Building Inspection”,An RL agent learns to plan drone flight paths for façade inspection.,yes
+“Semantic Style Transfer for Architectural Drawings”,Applies style transfer to convert modern blueprints into historical drawing styles.,yes
+“Reviewing Deep Learning Applications in Architecture, Engineering and Construction”,A survey across AEC industries, highlighting DL in design, simulation, and construction monitoring.,yes
+“Deep Learning for Rooftop Detection in Satellite Imagery”,This paper trains Mask R-CNN to segment rooftops, facilitating solar mapping.,yes
+“Architectural Style Recognition with Capsule Networks”,Investigates capsule nets to capture part-whole relationships in facades for style classification.,yes
+“Deep Learning Approaches to BIM Data Extraction”,CNNs and transformers extract structural elements (walls, beams) from point-cloud-based BIM models.,yes
+“Spatio-Temporal Deep Learning for Pedestrian Flow Prediction”,LSTM-CNN hybrids forecast pedestrian counts in urban squares, with implicit building context.,no
+“GAN-Based Facade Completion for Heritage Reconstruction”,Generative models fill missing facade parts in photographs of ruined monuments.,yes
+“Convolutional Mesh Autoencoders for 3D Building Reconstruction”,Autoencoder learns mesh representations from aerial LiDAR data to rebuild building geometry.,yes
+“Deep Learning in Lightweight Steel Structure Design”,Uses DL to optimize steel frame designs for minimal weight and cost under load constraints.,yes
+“Deep Reinforcement Learning for Automated Floor-Plan Layout”,RL agents learn to place rooms and corridors optimizing functional and aesthetic criteria.,yes
+“Multi-View Deep Networks for Façade Parsing”,Combines ground and aerial views to improve facade element segmentation performance.,yes
+“Deep Learning for Adaptive Building Facade Shading Control”,CNN-based predictors adjust dynamic shading systems for energy efficiency.,yes
+“3D Semantic Segmentation of Building Interiors”,A 3D U-Net segments interior elements (walls, doors, furniture) from point-cloud scans.,yes
+“Deep Learning-Enabled Smart Facade Systems: A Review”,Surveys DL-driven responsive facade technologies, from sensor integration to actuation.,yes
+“Deep CNNs for Architectural Style Retrieval in Online Archives”,Implements a retrieval system that ranks archive images by similarity in style space.,yes
+“Deep Learning for Urban Vegetation Analysis”,Uses CNN segmentation to quantify green cover on and around buildings for environmental studies.,yes
+“Graph-Based Deep Learning for Urban Block Typology Classification”,GNNs classify city blocks into typologies based on building footprint graphs.,yes
+“Semi-Supervised Deep Learning for Facade Element Detection”,Uses few-shot learning to detect facade elements with limited labeled data.,yes
+“Deep Learning for Structural Damage Assessment Post-Disaster”,Image-based CNN assesses building damage levels after earthquakes.,yes
+“Convolutional LSTM Networks for Building Temperature Forecasting”,Combines conv layers with LSTM to predict internal building temperature distributions.,no
+“StyleGAN-Based Synthesis of Historical Architectural Scenes”,StyleGAN is used to generate plausible scenes of historic city streets.,yes
+“Deep Learning for Parametric Facade Optimization”,An optimization loop using CNN surrogates to refine parametric facade designs.,yes
+“Deep Neural Networks for BIM Model Quality Assurance”,Using DL to detect anomalies and missing elements in BIM models before construction.,yes
+“Deep Learning in Vernacular Architecture Documentation”,Applies CNNs to catalog vernacular building features from field photographs.,yes
+“Neural Radiance Fields for Interior Light Simulation”,Adapts NeRFs to simulate natural light propagation in building interiors.,yes
+“Deep Learning-Based Analysis of Cultural Architectural Patterns”,This study clusters cultural building motifs using autoencoder embeddings.,yes
+“Deep Transfer Learning for Rapid Architectural Style Recognition”,Fine-tunes a ResNet backbone to quickly classify new or rare architectural styles.,yes
+“3D Point-Cloud GANs for Building Retrofit Design Suggestions”,GANs propose retrofit modifications to existing buildings based on scanned data.,yes
+“Deep Learning for Airflow Simulation in Building Performance Studies”,CNNs approximate CFD simulations to predict airflow patterns around facades.,yes

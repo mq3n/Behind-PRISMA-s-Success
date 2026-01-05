@@ -43,15 +43,6 @@ env/
 *~
 .DS_Store
 
-# Data files (large files should not be committed)
-*.csv
-*.xlsx
-*.xls
-*.db
-*.sqlite
-*.h5
-*.hdf5
-
 # Exceptions for small example data
 !data/examples/*.csv
 !data/examples/*.xlsx
